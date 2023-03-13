@@ -5,7 +5,7 @@
 
   Base 4 site de venda de produtos para ISPs e Data centers, <br />Responsivo, feito usando HTML, CSS, e JavaScript.
 
-  <a href="https://base4.netlify.app"><strong>➥ Demo</strong></a>
+  <a href="https://base4.netlify.app"><strong>➥ Site Demo</strong></a>
 
 </div>
 
@@ -13,13 +13,14 @@
 
 ### Demo Screeshots
 
-![Desktop Demo](/assets/images/Design sem nome.png)
+![Desktop Demo](assets/images/Design%20sem%20nome.png)
 
 ### Projeto
 
 O projeto foi criado a partir da demanda de melhora do site oficial.
 
 * <a href="https://base4telecom.net"><strong>➥ Site Original</strong></a>
+* <a href="https://base4.netlify.app"><strong>➥ Site Atualizado</strong></a>
 
 <br/>
 
