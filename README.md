@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./readme-images/project-logo.png" />
+  <img width="50%" height="50%" src="assets/images/logo-blue.svg" />
 
   <h2 align="center">Base 4 Telecom</h2>
 
