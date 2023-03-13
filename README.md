@@ -13,7 +13,7 @@
 
 ### Demo Screeshots
 
-![Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Desktop Demo](./assets/images/Design sem nome.png "Desktop Demo")
 
 ### Projeto
 
