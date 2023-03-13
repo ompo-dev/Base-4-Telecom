@@ -1,21 +1,11 @@
 <div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/tourly)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/tourly?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/tourly?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/FYFmQEpZywc?style=social)](https://youtu.be/FYFmQEpZywc)
-
-  <br />
-  <br />
-  
   <img src="./readme-images/project-logo.png" />
 
-  <h2 align="center">Tourly - Travel website</h2>
+  <h2 align="center">Base 4 Telecom</h2>
 
-  Tourly is fully responsive travel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  Base 4 site de venda de produtos para ISPs e Data centers, <br />Responsivo, feito usando HTML, CSS, e JavaScript.
 
-  <a href="https://codewithsadee.github.io/tourly/"><strong>➥ Live Demo</strong></a>
+  <a href="https://base4.netlify.app"><strong>➥ Demo</strong></a>
 
 </div>
 
@@ -23,34 +13,20 @@
 
 ### Demo Screeshots
 
-![Tourly Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
-### Prerequisites
+### Projeto
 
-Before you begin, ensure you have met the following requirements:
+O projeto foi criado a partir da demanda de melhora do site oficial.
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+* <a href="https://base4telecom.net"><strong>➥ Site Original</strong></a>
 
-### Run Locally
+<br/>
 
-To run **Tourly** locally, run this command on your git bash:
+### Algumas melhoras
 
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/tourly.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/tourly.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
+* Site mais bonito, atrativo e profissional.
+* Agora o site possui somente 5 paginas ao invés de 8.
+* Produtos estão muito bem organizados e mais interativos, tendo logo na tela Home amostras dos produtos e descrições sobre oque cada um faz.
+* Na pagina Produtos se encontra todas marcas de produtos divididas por categorias tendo como descrição o beneficio de cada marca entre cada item, ajudando na escolha do cliente.
+* Quando o cliente escolhe o item que deseja e levado para uma pagina onde poderá enviar uma mensagem por WhatsApp ja com o produto marca e modelo descritos na mensagem sem ele precisar digitar nada.
